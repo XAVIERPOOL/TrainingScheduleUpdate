@@ -27,7 +27,7 @@ This project is built with:
     - Username: `officer@coopwise.com`
     - Password: `officer123`
 
-## Future Enhancements & Backend Integration
+## Future Enhancements 
 - **Email Notifications:** Integration with email servers (e.g., Gmail or SendGrid) for sending notifications and confirmations to users. 
 - **QR Code Scanning:** Full integration  for live attendance.
 ## Author
