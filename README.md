@@ -6,6 +6,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- Supabase
 ## Getting Started
 
 ### Prerequisites
@@ -28,7 +29,7 @@ This project is built with:
     - Password: `officer123`
 
 ## Future Enhancements 
-- **Email Notifications:** Integration with email servers (e.g., Gmail or SendGrid) for sending notifications and confirmations to users. 
+- **Email Notifications:** Integration with email servers (e.g., Gmail ) for sending notifications and confirmations to users. 
 - **QR Code Scanning:** Full integration  for live attendance.
 ## Author
 - [Lagatic, Xavier Angelo James O.]
