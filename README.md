@@ -29,7 +29,6 @@ This project is built with:
 
 ## Future Enhancements & Backend Integration
 - **Email Notifications:** Integration with email servers (e.g., Gmail or SendGrid) for sending notifications and confirmations to users. 
-- **Database:** Transition to supabase
 - **QR Code Scanning:** Full integration  for live attendance.
 ## Author
 - [Lagatic, Xavier Angelo James O.]
