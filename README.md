@@ -16,6 +16,10 @@ This project is built with:
 
 
 ### Running the Application
+1.  Start install :
+    ```bash
+    npm install
+
 1.  Start development server:
     ```bash
     npm run dev
